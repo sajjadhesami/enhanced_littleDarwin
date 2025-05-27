@@ -1,0 +1,4 @@
+include littledarwin/jar/clover_db_extractor.jar
+include littledarwin/jar/clover.jar
+include littledarwin/jar/hamcrest-2.2.jar
+include littledarwin/jar/junit-4.13.2.jar
