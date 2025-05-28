@@ -484,7 +484,7 @@ class Schemata:
 
         for node in G.nodes:
             for edge in G.edges(node):
-                if G.edges[edge[0], edge[1]]["color"] == "red":
+                if G.has_edge(edge[0], edge[1]) and G.edges[edge[0], edge[1]]["color"] == "red":
                     G.nodes[edge[0]]["label"] = (
                         G.nodes[edge[0]]["label"] + ", " +
                         G.nodes[edge[1]]["label"]
