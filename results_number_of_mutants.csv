@@ -1,0 +1,16 @@
+Project name,Original number of mutants,Number of mutants in MediumDarwin,Reduce non compilable mutants,added mutants,% of change
+commons-lang,16832,14066,2852,86,16.43%
+jackson-databind,37280,37206,153,79,0.20%
+commons-net,7290,6412,911,33,12.04%
+jackson-core,15890,15901,121,132,-0.07%
+jackson-dataformat-xml,2572,2573,5,6,-0.04%
+commons-dbutils,1525,1066,468,9,30.10%
+commons-validator,3483,2890,593,0,17.03%
+Jaxen,4859,4855,4,0,0.08%
+commons-cli,1482,1213,269,0,18.15%
+Jettison,2210,2211,0,1,-0.05%
+commons-csv,1145,1026,120,1,10.39%
+Javancss,679,678,1,0,0.15%
+Antomology,246,239,10,3,2.85%
+Triangle,42,42,0,0,0.00%
+Jra,46,46,0,0,0.00%
